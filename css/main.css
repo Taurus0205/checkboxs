@@ -1,0 +1,39 @@
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  margin: 0 auto;
+  padding: 20px;
+  width: 1140px;
+}
+
+.sports-from {
+  border: 1px solid red;
+}
+
+.sports-form__heading {
+  margin: 0;
+}
+
+.input-radio-label {
+  display: block;
+  padding: 5px 0;
+}
+
+.input-radio {
+  border: 1px solid blue;
+}
+
+.input-radio-controller {
+}
+
+.input-radio-text {
+}
